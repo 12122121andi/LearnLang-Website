@@ -1,0 +1,12 @@
+.word:hover {
+      text-decoration: underline;
+      cursor: pointer;
+      background-color: rgba(173, 216, 230, .01); /* light blue with 30% opacity */
+    }
+  
+
+.word.translated {
+  background-color: rgba(173, 216, 230, 0.3); /* light blue with 30% opacity */
+  padding: 4px;
+  border-radius: 4px;
+}
