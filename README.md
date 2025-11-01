@@ -1,5 +1,6 @@
 **Overview:**
-This is an extension that allows for dynamic translation of a website by clicking words. To run this project, gather all these files into a folder, and Unpack them on "chrome://extensions" developer mode on chrome.
+This is an extension that allows for dynamic translation of a website by clicking words. 
+To run this project, gather all these files into a folder, and Unpack them on "chrome://extensions" developer mode on chrome.
 
 
 **How it works:**
@@ -16,4 +17,9 @@ Running the website 24/7 to allow for translation anytime
 Adding translated words to the SQL database to create flashcards on user weak points.
 
 
+![Alt text](screenshots/Anna.png)
+
+
+
 (Last updated July 2025)
+
