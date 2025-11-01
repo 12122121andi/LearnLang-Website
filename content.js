@@ -1,4 +1,4 @@
-// translator-fix.js - kinda messy version
+
 
 function isWs(n){return n&&n.nodeType===Node.TEXT_NODE&&/^\s+$/.test(n.nodeValue)}
 function isWord(n){return n&&n.nodeType===Node.ELEMENT_NODE&&n.classList?.contains("word")}
@@ -145,3 +145,4 @@ function initTrans(){
 }
 
 initTrans()
+
